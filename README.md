@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-mig
 - 👀 I’m interested in becoming a software developer. I was a waiter for my entire adult hood, and at 28, I quit my job to study code full time.
-- I joined github to have access to good sources of information and to hopefully help me acheive my goal of becoming a software developer faster.
+- I joined github to have access to good sources of information and to hopefully help me acheive my goal of becoming a software developer.
 - 🌱 i started with html/css as it was recommended by many and boy was it a good choice. Html and css has opened my eyes to how insane and beautiful coding is and has giving me a solid foundation and level of understanding to continue learning. I'm now currently learning Javascript, wish me luck!!
 - 📫 you can reach me at itsmig@proton.me
 --->
